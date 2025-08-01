@@ -1,7 +1,7 @@
 # AfricaCrypto - Cryptocurrency Education Platform
 
 A comprehensive cryptocurrency education platform specifically designed for African communities, built with React, TypeScript, and modern web technologies.
-
+Live link https://crypto-doc-to-learn.lovable.app/
 ## 🌍 About AfricaCrypto
 
 AfricaCrypto is an educational platform that empowers African communities with comprehensive cryptocurrency knowledge. The platform offers structured learning modules covering everything from basic blockchain concepts to advanced trading principles and wallet security.
